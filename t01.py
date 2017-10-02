@@ -13,6 +13,4 @@ print cash_db
 
 print cash_db.iloc[0:5, 0]
 
-# for i in range(5):
-# 	print cash_db.loc[i][u'股票股利'].encode('utf-8'):
 
